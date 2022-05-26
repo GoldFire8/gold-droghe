@@ -14,7 +14,7 @@
         Police = -1, -- Poliziotti In città | {-1 per passare il controllo dei poliziotti in cittò e quindi raccogliere senza}
         Item = 'mariuana', -- Ricavo Item | Mariuana
         ItemLabel = 'Mariuana',
-        Reward = 1, -- Quantità Item |     1 = minimo | 5 = massimo
+        Reward = 1, -- Quantità Item
         Posizione = { -- Posizione Campo
             vector3(2201.07, 5589.53, 53.93), -- Cambiare anche sul server.lua
         },
@@ -36,7 +36,7 @@
         Police = -1, -- Poliziotti In città | {-1 per passare il controllo dei poliziotti in cittò e quindi raccogliere senza}
         Item = 'cocaina', -- Ricavo Item | Cocaina
         ItemLabel = 'Cocaina',
-        Reward = 1, -- Quantità Item |     1 = minimo | 5 = massimo
+        Reward = 1, -- Quantità Item
         Posizione = { -- Posizione Campo
             vector3(2209.43, 5562.26, 53.88), -- Cambiare anche sul server.lua
         },
